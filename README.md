@@ -17,7 +17,7 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 
 ## 📫 Connect with Me
 - LinkedIn: [Sarthak Sabharwal](https://www.linkedin.com/in/sarthak-sabharwal-b39575320/)
-- Instagram: [saaarthak.01](instagram.com/saaarthak.01)
+- Instagram: [saaarthak.01](https://www.instagram.com/saaarthak.01/)
 
 ## ⚡ Fun Facts
 - I love cracking tough coding problems.
