@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**Saaarthak0102/Saaarthak0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm learning new skills and technologies during my engineering studies.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To
+- 🌱 Currently improving my skills in **Java**, **C**, and **Python**.
+- 📚 Learning **Data Structures and Algorithms (DSA)** in **Java**.
+- 🌐 Started exploring **web development**.
+- 💡 Passionate about open-source projects and eager to contribute to the community.
+- 🔍 Always looking to learn new technologies and expand my horizons.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- 🏆 Become a well-rounded **developer** with strong problem-solving skills.
+- 🌍 Collaborate on **open-source** projects to learn from experienced developers and make meaningful contributions.
+- 💻 Master **Data Structures and Algorithms** to sharpen my coding and logic skills.
+- 🚀 Continue learning and exploring different fields in **software development**.
+
+## 📫 Connect with Me
+- LinkedIn: [Sarthak](https://www.linkedin.com/in/sarthak-sabharwal-b39575320/)
+
+## ⚡ Fun Facts
+- I love cracking tough coding problems.
+- When I'm not coding, I'm either exploring new tech trends or immersed in **gaming** 🎮!
