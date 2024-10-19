@@ -15,6 +15,11 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 - 💻 Master **Data Structures and Algorithms** to sharpen my coding and logic skills.
 - 🚀 Continue learning and exploring different fields in **software development**.
 
+ ## Stats 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saaarthak0102&theme=radical)
+
+
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sarthak-sabharwal-b39575320/)
 - [Instagram](https://www.instagram.com/saaarthak.01/)
