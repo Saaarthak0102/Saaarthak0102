@@ -10,14 +10,14 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 - 🔍 Always looking to learn new technologies and expand my horizons.
 
 ## 🎯 Goals
-- 🏆 Become a well-rounded **developer** with strong problem-solving skills.
-- 🌍 Collaborate on **open-source** projects to learn from experienced developers and make meaningful contributions.
+- 🏆 Become a well-rounded **developer** with strong problem-solving skills.                                                                  
+- 🌍 Collaborate on **open-source** projects to learn from experienced developers and make meaningful contributions.                    
 - 💻 Master **Data Structures and Algorithms** to sharpen my coding and logic skills.
 - 🚀 Continue learning and exploring different fields in **software development**.
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sarthak-sabharwal-b39575320/)
-- [Instagram](https://www.instagram.com/saaarthak.01/)
+## Badges
+### HacktoberFest 2024
+[![An image of @saaarthak0102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saaarthak0102)](https://holopin.io/@saaarthak0102)
 
 ## Stats 
 
@@ -30,3 +30,7 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
         <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/Saaarthak0102?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
     </picture>
 </div>
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sarthak-sabharwal-b39575320/)
+- [Instagram](https://www.instagram.com/saaarthak.01/)
