@@ -30,8 +30,3 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
         <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/Saaarthak0102?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
     </picture>
 </div>
-
-
-## ⚡ Fun Facts
-- I love cracking tough coding problems.
-- When I'm not coding, I'm either exploring new tech trends or immersed in **gaming** 🎮!
