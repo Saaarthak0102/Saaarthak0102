@@ -1,6 +1,7 @@
 # Hi there, I'm Sarthak 👋
 
 I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm learning new skills and technologies during my engineering studies.
+
 ![](https://komarev.com/ghpvc/?username=Saaarthak0102)
 
 ## 🚀 What I'm Up To
