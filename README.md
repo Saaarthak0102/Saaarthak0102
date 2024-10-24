@@ -8,7 +8,7 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 - 🌱 Currently improving my skills in **Java**, **C**, and **Python**.
 - 📚 Learning **Data Structures and Algorithms (DSA)** in **Java**.
 - 🌐 Started exploring **web development**.
-- 💡 Passionate about open-source projects and eager to contribute to the community.
+- 💡 Passionate about **open-source projects** and eager to contribute to the community.
 - 🔍 Always looking to learn new technologies and expand my horizons.
 
 ## 🎯 Goals
