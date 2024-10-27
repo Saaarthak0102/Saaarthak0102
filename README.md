@@ -6,7 +6,7 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 
 ## 🚀 What I'm Up To
 - 🌱 Currently improving my skills in **Java**, **C**, and **Python**.
-- 📚 Learning **Data Structures and Algorithms (DSA)** in **Java**.
+- 📚 Learning **Data Structures and Algorithms** in **Java**.
 - 🌐 Started exploring **web development**.
 - 💡 Passionate about **open-source projects** and eager to contribute to the community.
 - 🔍 Always looking to learn new technologies and expand my horizons.
