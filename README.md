@@ -2,6 +2,10 @@
 
 I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm learning new skills and technologies during my engineering studies.
 
+- [LinkedIn](https://www.linkedin.com/in/sarthak-sabharwal-b39575320/)
+- [Instagram](https://www.instagram.com/saaarthak.01/)
+
+
 ![](https://komarev.com/ghpvc/?username=Saaarthak0102)
 
 ## 🚀 What I'm Up To
@@ -45,6 +49,3 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
     </picture>
 </div>
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sarthak-sabharwal-b39575320/)
-- [Instagram](https://www.instagram.com/saaarthak.01/)
