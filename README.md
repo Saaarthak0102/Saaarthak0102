@@ -1,9 +1,12 @@
-# Hi there, I'm Sarthak 👋
+# Hi there, I'm Sarthak 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="350px" max-width="350px" width="290px" align="right"> 
 
-I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm learning new skills and technologies during my engineering studies.
+I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm learning new skills and technologies during my engineering studies.  
 
 - [LinkedIn](https://www.linkedin.com/in/sarthak-sabharwal-b39575320/)
 - [Instagram](https://www.instagram.com/saaarthak.01/)
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=Saaarthak0102)
