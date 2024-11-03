@@ -1,5 +1,5 @@
 # Hi there, I'm Sarthak 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="350px" max-width="350px" width="290px" align="right"> 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="350px" max-width="350px" width="200px" align="right"> 
 
 I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm learning new skills and technologies during my engineering studies.  
 
