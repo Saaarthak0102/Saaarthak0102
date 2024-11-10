@@ -28,9 +28,6 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 - 🚀 Continue learning and exploring different fields in **software development**.
 
 ## Badges
-### Hacktoberfest 2024
-[![An image of @saaarthak0102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saaarthak0102)](https://holopin.io/@saaarthak0102)
-
 ### GSSOC 2024 Extd
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
@@ -44,6 +41,9 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 </a>
 </div>
 </details>
+
+### Hacktoberfest 2024
+[![An image of @saaarthak0102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saaarthak0102)](https://holopin.io/@saaarthak0102)
 
 ## Stats 
 
