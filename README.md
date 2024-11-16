@@ -27,7 +27,7 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 - 💻 Master **Data Structures and Algorithms** to sharpen my coding and logic skills.
 - 🚀 Continue learning and exploring different fields in **software development**.
 
-## Badges
+## 🎖️ Badges
 ### GSSOC 2024 Extd (Ranked 175/3917)
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
