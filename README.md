@@ -45,7 +45,7 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 
 ## Stats 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saaarthak0102&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saaarthak0102&theme=dark)](https://git.io/streak-stats)
 
 <div align="center">
     <picture>
