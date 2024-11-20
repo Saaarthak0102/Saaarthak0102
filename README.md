@@ -8,7 +8,7 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 
 - [LinkedIn](https://www.linkedin.com/in/sarthak-sabharwal-b39575320/)
 - [Instagram](https://www.instagram.com/saaarthak.01/)
-- [Gmail](saaarthak.codes@gmail.com)
+
 
 
 
