@@ -13,8 +13,6 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 
 
 
-![](https://komarev.com/ghpvc/?username=Saaarthak0102)
-
 ## 🚀 What I'm Up To
 - 🌱 Currently improving my skills in **Java**, **C**, and **Python**.
 - 📚 Learning **Data Structures and Algorithms** in **Java**.
