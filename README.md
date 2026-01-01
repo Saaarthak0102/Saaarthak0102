@@ -14,7 +14,7 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 
 
 ## 🚀 What I'm Up To
-- 📚 Learning **Data Structures and Algorithms** in **Java**.
+- 📚 **Data Structures and Algorithms** in **Java**.
 - 🌐 Exploring **web development**.
 - 💡 Passionate about **open-source projects** and eager to contribute to the community.
 
