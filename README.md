@@ -37,15 +37,4 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 ### Hacktoberfest 2024
 [![An image of @saaarthak0102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saaarthak0102)](https://holopin.io/@saaarthak0102)
 
-## Stats 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saaarthak0102&theme=dark)](https://git.io/streak-stats)
-
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Saaarthak0102?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Saaarthak0102?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-        <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/Saaarthak0102?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
-    </picture>
-</div>
 
