@@ -14,15 +14,10 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 
 
 ## 🚀 What I'm Up To
-- 🌱 Currently improving my skills in **Java**, **C**, and **Python**.
 - 📚 Learning **Data Structures and Algorithms** in **Java**.
-- 🌐 Started exploring **web development**.
+- 🌐 Exploring **web development**.
 - 💡 Passionate about **open-source projects** and eager to contribute to the community.
 
-## 🎯 Goals
-- 🏆 Become a well-rounded **software developer** with strong problem-solving skills.                                                                  
-- 🌍 Collaborate on **open-source** projects to learn from experienced developers and make meaningful contributions.                    
-- 💻 Master **Data Structures and Algorithms** to sharpen my coding and logic skills.
 
 ## 🎖️ Badges
 ### GSSOC 2024 Extd (Ranked 175/3918)
