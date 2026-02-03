@@ -37,4 +37,6 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 ### Hacktoberfest 2024
 [![An image of @saaarthak0102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saaarthak0102)](https://holopin.io/@saaarthak0102)
 
+💙 Sponsor my open-source work: https://github.com/sponsors/Saaaarthak0102
+
 
