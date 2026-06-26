@@ -8,9 +8,10 @@ I'm a **B.Tech nerd** 🤓 with a passion for coding and all things tech! I'm le
 - [Instagram](https://www.instagram.com/saaarthak.01/)
 - [Porfolio](https://saaarthakcodes.vercel.app)
 
-## DSA (Java)
-## Web Dev
-## ML
+### What I am upto:
+- DSA
+- Web Dev
+- ML
 
 
 💙 Sponsor my open-source work: https://github.com/sponsors/Saaaarthak0102
